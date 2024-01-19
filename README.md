@@ -1,4 +1,6 @@
- In this ecourier manual testing project, i covered the topic **Test Plan**, **Test Schedule**, **Mindmaps**, **Test Cases**, **Reports**, and bug reports using **Jira**.
+# Ecourier manual testing(Test plan, Schedule, Mindmaps, Test cases, Jira & Test Metrix)
+
+In this ecourier manual testing project, I covered the topics **Test Plans**, **Test Schedules**, **Mindmaps**, **Test Cases**, **Reports**, and **JIRA**
 
 
 # **Table of Contents:**
